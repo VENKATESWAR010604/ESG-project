@@ -1,0 +1,5 @@
+AccountNumber,MeterNumber,ServiceStart,ServiceEnd,Usage,Unit,Tariff,TotalAmount
+ACC-1001,MTR-7788,2026-04-15,2026-05-14,1250,kWh,HT-Industrial,14200
+ACC-1002,MTR-8899,2026-05-01,2026-05-31,980,kWh,LT-Commercial,8900
+ACC-1003,MTR-9900,2026-04-20,2026-05-19,abc,kWh,HT-Industrial,12000
+ACC-1004,MTR-1111,2026-04-01,2026-06-15,9000,kWh,HT-Industrial,76000

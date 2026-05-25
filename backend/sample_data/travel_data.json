@@ -1,0 +1,84 @@
+[
+{
+    "employee_id": "EMP-101",
+    "category": "hotel",
+    "travel_date": "2026-05-01",
+    "amount": 3894,
+    "city": "Hyderabad",
+    "nights": 5
+  },
+  {
+    "employee_id": "EMP-102",
+    "category": "flight",
+    "travel_date": "2026-05-02",
+    "amount": 8626,
+    "origin": "BLR",
+    "destination": "BOM",
+    "distance_km": 840
+  },
+  {
+    "employee_id": "EMP-103",
+    "category": "hotel",
+    "travel_date": "2026-05-03",
+    "amount": 6847,
+    "city": "Chennai",
+    "nights": 2
+  },
+  {
+    "employee_id": "EMP-104",
+    "category": "flight",
+    "travel_date": "2026-05-04",
+    "amount": 7628,
+    "origin": "MAA",
+    "destination": "DEL",
+    "distance_km": 1760
+  },
+  {
+    "employee_id": "EMP-105",
+    "category": "ground_transport",
+    "travel_date": "2026-05-05",
+    "amount": 8150,
+    "city": "Hyderabad",
+    "distance_km": 142
+  },
+  {
+    "employee_id": "EMP-106",
+    "category": "ground_transport",
+    "travel_date": "2026-05-06",
+    "amount": 14492,
+    "city": "Pune",
+    "distance_km": 97
+  },
+  {
+    "employee_id": "EMP-107",
+    "category": "ground_transport",
+    "travel_date": "2026-05-07",
+    "amount": 12011,
+    "city": "Mumbai",
+    "distance_km": 63
+  },
+  {
+    "employee_id": "EMP-108",
+    "category": "hotel",
+    "travel_date": "2026-05-08",
+    "amount": 9280,
+    "city": "Bengaluru",
+    "nights": 3
+  },
+  {
+    "employee_id": "EMP-109",
+    "category": "hotel",
+    "travel_date": "2026-05-09",
+    "amount": 11846,
+    "city": "Pune",
+    "nights": 2
+  },
+  {
+    "employee_id": "EMP-110",
+    "category": "ground_transport",
+    "travel_date": "2026-05-10",
+    "amount": 2809,
+    "city": "Delhi",
+    "distance_km": 731
+  }
+  ]

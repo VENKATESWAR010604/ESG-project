@@ -1,0 +1,29 @@
+:root {
+  font-family: Inter, Arial, sans-serif;
+  color: #0f172a;
+  background: #eef2f3;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  background: #eef2f3;
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
