@@ -86,7 +86,7 @@ function App() {
         </nav>
 
         <div className="sidebar-footer">
-          <p></p>
+          <p>wait for 10sec</p>
           <strong>Live API Connected</strong>
         </div>
       </aside>
